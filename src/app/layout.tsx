@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Button } from "@/components/ui/button";
+import { Analytics } from "@vercel/analytics/react";
 import "@/app/globals.css";
 
 export default function RootLayout({
@@ -39,6 +40,7 @@ export default function RootLayout({
         </nav>
 
         <main className="container p-6 mx-auto">{children}</main>
+        <Analytics />
       </body>
     </html>
   );
