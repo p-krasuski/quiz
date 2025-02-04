@@ -15,6 +15,8 @@ const shuffleArray = (array: Question[]) => {
   return shuffled;
 };
 
+const QUESTIONS_LENGTH = 30;
+
 type Question = {
   question: string;
   options: string[];
@@ -40,7 +42,10 @@ export default function QuizPage() {
   const [userAnswers, setUserAnswers] = useState<AnswerRecord[]>([]);
 
   useEffect(() => {
-    const shuffledQuestions = shuffleArray(questionsData).slice(0, 30);
+    const shuffledQuestions = shuffleArray(questionsData).slice(
+      0,
+      QUESTIONS_LENGTH
+    );
     setQuestions(shuffledQuestions);
     setCurrentIndex(0);
     setSelectedAnswer(null);
@@ -50,7 +55,8 @@ export default function QuizPage() {
     setUserAnswers([]);
   }, [key]);
 
-  if (questions.length === 0) return <p>Loading...</p>;
+  if (questions.length === 0)
+    return <p className="mx-auto text-center">Loading...</p>;
 
   const handleAnswer = (option: string) => {
     if (selectedAnswer !== null) return;
@@ -169,16 +175,21 @@ export default function QuizPage() {
             key={idx}
             onClick={() => handleAnswer(option)}
             className={`${
-              selectedAnswer === option
+              selectedAnswer
                 ? option === questions[currentIndex].answer
                   ? "bg-green-500"
-                  : "bg-red-500"
+                  : selectedAnswer === option
+                  ? "bg-red-500"
+                  : "bg-blue-500"
                 : "bg-blue-500"
             }`}
           >
             {option}
           </Button>
         ))}
+      </div>
+      <div className="mt-4 text-gray-400 font-light">
+        {currentIndex} / {QUESTIONS_LENGTH}{" "}
       </div>
     </div>
   );

@@ -11,7 +11,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen text-center">
+    <div className="flex flex-col items-center justify-center h-96 text-center">
       <Button
         onClick={startQuiz}
         className="px-6 py-3 text-lg text-white bg-blue-600 hover:bg-blue-700"
