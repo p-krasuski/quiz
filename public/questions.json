@@ -1,0 +1,521 @@
+[
+  {
+    "question": "Erich Fromm ujął motywację jako:",
+    "options": [
+      "Gotowość do wykonania zachowania i stojący za tym mechanizm energetyczny",
+      "Mechanizm wyzwalający i podtrzymujący zachowanie",
+      "Zachowanie, którego źródłem jest energia psychiczna",
+      "Dążenie do integralności własnej osoby poprzez przezwyciężanie czynników zewnętrznych ograniczających lub udaremniających integralność Ja"
+    ],
+    "answer": "Dążenie do integralności własnej osoby poprzez przezwyciężanie czynników zewnętrznych ograniczających lub udaremniających integralność Ja"
+  },
+  {
+    "question": "Model motywacji osiągnięć Atkinsona zakładał, że:",
+    "options": [
+      "Poziom motywacji wpływa na szansę realizacji celu",
+      "Im łatwiej osiągnąć sukces, tym mniejsza ma on wartość nagradzającą",
+      "Poziom motywacji jest powiązany z umiejętnością szybkiego reagowania na przeszkody w dążeniu do celu",
+      "Motywacja związana jest z gotowością do wykonywania utrwalonego wzorca zachowań"
+    ],
+    "answer": "Im łatwiej osiągnąć sukces, tym mniejsza ma on wartość nagradzającą"
+  },
+  {
+    "question": "Facylitacja społeczna to:",
+    "options": [
+      "Współpraca z innymi członkami społeczności nad określonym zadaniem",
+      "Proces, w którym obecność innych ludzi wywiera intensyfikujący wpływ na zachowania jednostki",
+      "Proces, w którym podmiot stara się wpływać na reakcje społeczne wobec niego",
+      "Proces poddania jednostki treningowi socjalizacyjnemu"
+    ],
+    "answer": "Proces, w którym obecność innych ludzi wywiera intensyfikujący wpływ na zachowania jednostki"
+  },
+  {
+    "question": "Które z poniższych emocji Paul Ekman uznawał za emocje podstawowe?",
+    "options": [
+      "Wdzięczność, zazdrość, smutek, radość, szczęście, złość",
+      "Strach, złość, smutek, radość, wstręt, zaskoczenie",
+      "Zaskoczenie, akceptacja, wstręt, duma, żal, radość"
+    ],
+    "answer": "Strach, złość, smutek, radość, wstręt, zaskoczenie"
+  },
+  {
+    "question": "Na czym polega reguła zgodności poznania z nastrojem według Bowera?",
+    "options": [
+      "Łatwiej przypominamy sobie informacje zgodne z naszym nastrojem",
+      "Zawsze zapominamy informacje sprzeczne z nastrojem",
+      "W nastroju negatywnym nie pamiętamy pozytywnych wspomnień",
+      "Nasz nastrój nie wpływa na pamięć"
+    ],
+    "answer": "Łatwiej przypominamy sobie informacje zgodne z naszym nastrojem"
+  },
+  {
+    "question": "Kluczowy czynnik wzbudzania emocji?",
+    "options": [
+      "Emocje wynikają z procesów czysto fizjologicznych",
+      "Emocje są świadomą reakcją człowieka",
+      "Emocje są wynikiem oceny zdarzenia jako istotnego dla celów i interesów",
+      "Emocje pojawiają się losowo, niezależnie od sytuacji"
+    ],
+    "answer": "Emocje są wynikiem oceny zdarzenia jako istotnego dla celów i interesów"
+  },
+  {
+    "question": "Wyjaśnij, co oznacza pojęcie mechanizmu odroczonej gratyfikacji.",
+    "options": [
+      "System motywacji, który przyznaje gratyfikację za każde natychmiastowe działanie",
+      "Metoda motywacji polegająca na obiecaniu jednostce jednorazowej gratyfikacji w przyszłości",
+      "Mechanizm polegający na rezygnacji z natychmiastowej przyjemności lub nagrody w celu uzyskania większej lub bardziej wartościowej nagrody w przyszłości",
+      "System motywacji, który polega na odkładaniu realizacji danego celu, aby podtrzymać motywację wewnętrzną"
+    ],
+    "answer": "Mechanizm polegający na rezygnacji z natychmiastowej przyjemności lub nagrody w celu uzyskania większej lub bardziej wartościowej nagrody w przyszłości"
+  },
+  {
+    "question": "Kristen Madsen wyróżnił cztery modele teorii motywacji. Sytuacja, w której jednostka wierzy, że sukces zależy od jej wysiłku, a nie kwestii przypadku, to przykład którego modelu?",
+    "options": [
+      "Model homeostatyczny",
+      "Model atrybucyjny",
+      "Model poznawczy",
+      "Model popędowo-podnietowy"
+    ],
+    "answer": "Model atrybucyjny"
+  },
+  {
+    "question": "Które z podejść do źródeł motywacji podkreśla rolę popędów, przynęt i wzmocnień?",
+    "options": [
+      "Podejście ewolucyjne",
+      "Podejście humanistyczne",
+      "Podejście psychodynamiczne",
+      "Behawioryzm"
+    ],
+    "answer": "Behawioryzm"
+  },
+  {
+    "question": "Która z poniższych sytuacji najlepiej ilustruje konflikt „dążenie – unikanie”?",
+    "options": [
+      "Uczeń musi wybrać między dwiema atrakcyjnymi ofertami studiów na różnych uczelniach",
+      "Osoba rozważa podjęcie nowej, lepiej płatnej pracy, ale wiąże się to z przeprowadzką do miasta, którego nie lubi",
+      "Sportowiec zmuszony jest do wyboru między dwoma trudnymi treningami, z których żaden mu się nie podoba",
+      "Student chce wyjechać na wymianę zagraniczną, ale nie może się zdecydować, które miejsce będzie dla niego lepsze"
+    ],
+    "answer": "Osoba rozważa podjęcie nowej, lepiej płatnej pracy, ale wiąże się to z przeprowadzką do miasta, którego nie lubi"
+  },
+  {
+    "question": "Według koncepcji Paula McLeana ewolucyjnie najstarszą częścią mózgu, która odpowiada m.in. za zachowania umożliwiające codzienne życie, jest:",
+    "options": ["Mózg paleossaków", "Mózg neossaków", "Mózg gadzi"],
+    "answer": "Mózg gadzi"
+  },
+  {
+    "question": "Według teorii Canona-Branda emocje:",
+    "options": [
+      "Tworzą się przed wystąpieniem odpowiedzi fizjologicznej organizmu",
+      "Tworzą się równocześnie z odpowiedzią fizjologiczną organizmu",
+      "Tworzą się po wystąpieniu odpowiedzi fizjologicznej organizmu"
+    ],
+    "answer": "Tworzą się równocześnie z odpowiedzią fizjologiczną organizmu"
+  },
+  {
+    "question": "Który układ mózgu pełni kluczową rolę w regulacji emocji, zwłaszcza strachu i zagrożenia?",
+    "options": [
+      "Układ limbiczny",
+      "Kora przedczołowa",
+      "Pień mózgu",
+      "Móżdżek"
+    ],
+    "answer": "Układ limbiczny"
+  },
+  {
+    "question": "Który z poniższych neuroprzekaźników jest najbardziej związany z regulacją nastroju i emocji?",
+    "options": ["Acetylocholina", "Glutaminian", "Serotonina", "Melatonina"],
+    "answer": "Serotonina"
+  },
+  {
+    "question": "Według badań Niedenthala i Setterlunda (1994), jaki wpływ na rozpoznawanie słów ma pozytywny lub negatywny nastrój?",
+    "options": [
+      "Osoby w pozytywnym nastroju szybciej rozpoznają słowa związane z radością, a wolniej słowa neutralne i negatywne",
+      "Osoby w negatywnym nastroju szybciej rozpoznają słowa związane ze smutkiem, ale nie ma to wpływu na słowa neutralne",
+      "Nastrój badanych nie wpływa na rozpoznawanie słów – proces ten jest niezależny od stanu emocjonalnego",
+      "Osoby w pozytywnym nastroju szybciej rozpoznają wszystkie słowa, niezależnie od ich emocjonalnego znaczenia"
+    ],
+    "answer": "Osoby w pozytywnym nastroju szybciej rozpoznają słowa związane z radością, a wolniej słowa neutralne i negatywne"
+  },
+  {
+    "question": "Które z poniższych twierdzeń najlepiej opisuje wpływ rywalizacji na motywację i funkcjonowanie jednostki?",
+    "options": [
+      "Rywalizacja zawsze zwiększa kreatywność i efektywność, ponieważ angażuje jednostkę do maksymalnego wysiłku",
+      "Rywalizacja może obniżać motywację wewnętrzną, szczególnie u osób, które ponoszą porażkę, i prowadzić do redukcji racjonalności działań",
+      "Badania psychologiczne nie wykazały wpływu rywalizacji na stosunki interpersonalne ani kreatywność jednostki"
+    ],
+    "answer": "Rywalizacja może obniżać motywację wewnętrzną, szczególnie u osób, które ponoszą porażkę, i prowadzić do redukcji racjonalności działań"
+  },
+  {
+    "question": "Na czym polega Panika?",
+    "options": [
+      "Polega na doświadczeniu przejmującego strachu, zwykle trwa od 15 minut nawet do godziny. Wybucha zupełnie niespodziewanie i trudno rzec, co ją wywołało",
+      "Występuje tylko u ludzi cierpiących na depresję",
+      "Zaburzenie psychiczne wymagające terapii"
+    ],
+    "answer": "Polega na doświadczeniu przejmującego strachu, zwykle trwa od 15 minut nawet do godziny. Wybucha zupełnie niespodziewanie i trudno rzec, co ją wywołało"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń najlepiej opisuje funkcję emblematu w komunikacji niewerbalnej?",
+    "options": [
+      "Emblematy są gestami, których znaczenie jest uniwersalne we wszystkich kulturach i nie wymaga nauki",
+      "Emblematy to świadomie używane gesty o ustalonym znaczeniu w danej kulturze, które mogą całkowicie zastąpić wypowiedź werbalną",
+      "Emblematy należą do grupy gestów adaptacyjnych, które pomagają regulować napięcie emocjonalne w sytuacjach społecznych",
+      "Emblematy to spontaniczne ruchy rąk, które wspomagają mowę, ale nie mają jednoznacznego znaczenia same w sobie"
+    ],
+    "answer": "Emblematy to świadomie używane gesty o ustalonym znaczeniu w danej kulturze, które mogą całkowicie zastąpić wypowiedź werbalną"
+  },
+  {
+    "question": "Czym różnią się nastroje od emocji?",
+    "options": [
+      "Emocje trwają dłużej niż nastroje i są mniej intensywne",
+      "Nastroje są bardziej intensywne niż emocje, ale trwają krócej",
+      "Nastroje trwają dłużej niż emocje, są mniej intensywne i nie prowadzą do konkretnego działania",
+      "Emocje nie mają wpływu na nastrój i nie wpływają na nasze zachowanie"
+    ],
+    "answer": "Nastroje trwają dłużej niż emocje, są mniej intensywne i nie prowadzą do konkretnego działania"
+  },
+  {
+    "question": "W badaniu przeprowadzonym przez pewnego psychologa udowodniono, iż ludzie zazwyczaj wkładają mniej wysiłku w zadania grupowe niż wtedy, kiedy mieliby wykonywać je samodzielnie. Takie zjawisko nazywa się:",
+    "options": [
+      "Efekt pierwszeństwa",
+      "Efekt autorytetu",
+      "Efekt łatwego podziału odpowiedzialności",
+      "Efekt behawioralnej wyższości"
+    ],
+    "answer": "Efekt łatwego podziału odpowiedzialności"
+  },
+  {
+    "question": "Efekt ekspozycji, opisany przez Zajonca, polega na:",
+    "options": [
+      "Automatycznym przypisywaniu bodźcom emocjonalnych znaczeń",
+      "Preferowaniu bodźców, które były wcześniej eksponowane, nawet bez ich świadomego rozpoznania",
+      "Silniejszym reagowaniu emocjonalnym na bodźce negatywne",
+      "Zwiększonym poziomie stresu przy wielokrotnej ekspozycji"
+    ],
+    "answer": "Preferowaniu bodźców, które były wcześniej eksponowane, nawet bez ich świadomego rozpoznania"
+  },
+  {
+    "question": "Dwuczynnikowa teoria emocji różni się od teorii Jamesa-Langego tym, że:",
+    "options": [
+      "Odrzuca rolę pobudzenia fizjologicznego",
+      "Podkreśla znaczenie świadomej oceny sytuacji",
+      "Zakłada, że emocje pojawiają się bez reakcji organizmu",
+      "Sugeruje, że każda emocja ma unikalny wzorzec fizjologicznych"
+    ],
+    "answer": "Podkreśla znaczenie świadomej oceny sytuacji"
+  },
+  {
+    "question": "Jaka jest kluczowa implikacja eksperymentu Milgrama dla teorii motywacji?",
+    "options": [
+      "Ludzie zawsze działają zgodnie ze swoimi przekonaniami moralnymi",
+      "Motywacja do posłuszeństwa autorytetowi może przewyższyć motywację do ochrony innych",
+      "Motywacja zawsze wynika z wewnętrznych potrzeb",
+      "Strach przed karą jest jedynym czynnikiem determinującym posłuszeństwo"
+    ],
+    "answer": "Motywacja do posłuszeństwa autorytetowi może przewyższyć motywację do ochrony innych"
+  },
+  {
+    "question": "Czym jest zaprzeczenie?",
+    "options": [
+      "Nieuświadomionym przez podmiot stanem nieprzyjmowania do wiadomości zagrażających informacji, niosących jednoznacznie negatywne skutki",
+      "Nieuświadomionym przez podmiot stanem nieprzyjmowania do wiadomości zagrażających informacji, nie niosących negatywnych skutków",
+      "Nieuświadomionym przez podmiot stanem przyjmowania do wiadomości zagrażających informacji, niosących jednoznacznie negatywne skutki",
+      "Nieuświadomionym przez podmiot stanem przyjmowania do wiadomości zagrażających informacji, niosących jednoznacznie negatywne skutki"
+    ],
+    "answer": "Nieuświadomionym przez podmiot stanem nieprzyjmowania do wiadomości zagrażających informacji, niosących jednoznacznie negatywne skutki"
+  },
+  {
+    "question": "Która z poniższych grup substancji chemicznych nie wpływa na odczuwanie emocji?",
+    "options": ["Neurony", "Hormony", "Neuromodulatory", "Polimery"],
+    "answer": "Polimery"
+  },
+  {
+    "question": "Zasada podwójnej kwantyfikacji zakłada, że:",
+    "options": [
+      "Uruchomienie zachowania jest efektem działania siły działającego bodźca i siły popędu",
+      "Jednocześnie muszą wystąpić utrwalony wzorzec zachowania oraz wrodzony mechanizm wyzwalający to zachowanie",
+      "Siła popędu w minimalnym stopniu zależy od siły bodźca",
+      "Komponenty wartości i możliwości decydują o szansie realizacji celu"
+    ],
+    "answer": "Uruchomienie zachowania jest efektem działania siły działającego bodźca i siły popędu"
+  },
+  {
+    "question": "Ekspresja emocji to:",
+    "options": [
+      "Wszelkie sygnały, zmiany w wyglądzie organizmu, ruchy i dźwięki, emitowane przez jednostkę będące dla kogoś innego wskazówką przeżywania przez tę osobę określonej emocji",
+      "Subiektywny stan psychiczny uruchamiający zmiany somatyczne, mimiczne, pantomimiczne i zachowania",
+      "Reakcje będące automatycznymi odpowiedziami na zdarzenia, jakich doświadcza podmiot",
+      "Reakcje somatyczno-motoryczne związane z ekspresją twarzy i zmianami postawy ciała"
+    ],
+    "answer": "Wszelkie sygnały, zmiany w wyglądzie organizmu, ruchy i dźwięki, emitowane przez jednostkę będące dla kogoś innego wskazówką przeżywania przez tę osobę określonej emocji"
+  },
+  {
+    "question": "Które z poniższych twierdzeń najlepiej opisuje rolę procesów poznawczych jako mechanizmu motywacyjnego?",
+    "options": [
+      "Procesy poznawcze, takie jak oczekiwania i aspiracje, mogą zwiększać motywację do działania, wpływając na poziom zaangażowania w osiągnięcie celu",
+      "Niezgodność poznawcza nie ma wpływu na motywację, ponieważ człowiek nie odczuwa potrzeby usunięcia sprzecznych informacji",
+      "Fantazje na temat sukcesu zawsze skutecznie uruchamiają motywację, ponieważ pozwalają jednostce wyobrazić sobie osiągnięcie celu",
+      "Poziom oczekiwań nie ma wpływu na rzeczywiste osiągnięcia jednostki, ponieważ motywacja do działania wynika jedynie z uwarunkowań afektywnych"
+    ],
+    "answer": "Procesy poznawcze, takie jak oczekiwania i aspiracje, mogą zwiększać motywację do działania, wpływając na poziom zaangażowania w osiągnięcie celu"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń najlepiej odzwierciedla współczesne podejście do motywacji i procesów poznawczych?",
+    "options": [
+      "Człowiek kieruje się wyłącznie motywacją homeostatyczną, dlatego potrzeby biologiczne, takie jak głód czy pragnienie, są uruchamiane dopiero po zaburzeniu równowagi w organizmie",
+      "Motywacja epistemiczna jest związana z poszukiwaniem wiedzy, jednak ludzie często ograniczają swoje możliwości poznawcze poprzez upraszczanie rzeczywistości i unikanie nowych informacji",
+      "Współczesne teorie motywacji uwzględniają czas jako kluczowy element, dzięki czemu dokładnie opisują, jak jednostka planuje i realizuje cele",
+      "Człowiek zawsze realizuje tylko jeden motyw na raz, ponieważ dążenie do kilku celów jednocześnie jest psychologicznie niemożliwe"
+    ],
+    "answer": "Motywacja epistemiczna jest związana z poszukiwaniem wiedzy, jednak ludzie często ograniczają swoje możliwości poznawcze poprzez upraszczanie rzeczywistości i unikanie nowych informacji"
+  },
+  {
+    "question": "Która z poniższych teorii emocji zakłada, że emocje powstają w wyniku interpretacji reakcji fizjologicznych?",
+    "options": [
+      "Teoria Jamesa-Langego",
+      "Teoria Cannona-Barda",
+      "Dwuczynnikowa teoria Schachtera-Singera",
+      "Teoria Lazarusa"
+    ],
+    "answer": "Teoria Jamesa-Langego"
+  },
+  {
+    "question": "Na czym polega teoria Jamesa-Langego dotycząca emocji?",
+    "options": [
+      "Najpierw odczuwamy emocję, a potem pojawia się reakcja fizjologiczna",
+      "Emocje powstają w mózgu niezależnie od reakcji ciała",
+      "Najpierw zachodzi reakcja fizjologiczna, a dopiero potem odczuwamy emocję",
+      "Emocje są wynikiem wyłącznie świadomej interpretacji sytuacji, bez udziału ciała"
+    ],
+    "answer": "Najpierw zachodzi reakcja fizjologiczna, a dopiero potem odczuwamy emocję"
+  },
+  {
+    "question": "W psychologii, potrzeba przebywania z innymi ludźmi to?",
+    "options": [
+      "Potrzeba społeczna",
+      "Potrzeba afiliacji",
+      "Potrzeba pierwotna",
+      "Potrzeba niedoboru"
+    ],
+    "answer": "Potrzeba afiliacji"
+  },
+  {
+    "question": "Które z poniższych zachowań niemowlęcia jest przykładem automatycznej regulacji emocji poprzez wywoływanie reakcji otoczenia?",
+    "options": [
+      "Ssanie własnego kciuka",
+      "Fiksowanie wzroku na twarzy opiekuna",
+      "Krzyk lub płacz sygnalizujący dyskomfort",
+      "Zabawa zabawkami w celu wzbudzenia pozytywnych uczuć"
+    ],
+    "answer": "Krzyk lub płacz sygnalizujący dyskomfort"
+  },
+  {
+    "question": "Według teorii autodeterminacji Deciego i Ryana, które trzy podstawowe potrzeby muszą być spełnione, aby wzmacniać motywację wewnętrzną?",
+    "options": [
+      "Władza, rywalizacja, uznanie",
+      "Autonomia, kompetencja, relacje społeczne",
+      "Bezpieczeństwo, hierarchia, nagrody",
+      "Kontrola, przynależność, sukces"
+    ],
+    "answer": "Autonomia, kompetencja, relacje społeczne"
+  },
+  {
+    "question": "Funkcjonalne ujęcie emocji według Frijdy mówi, że:",
+    "options": [
+      "Emocje należy traktować jako mechanizmy sugerujące, że zdarzenie jest ważne dla interesów jednostki",
+      "Emocje są stanem podwyższonego pobudzenia oznakowanego afektywnie",
+      "Różnice między emocjami wiążą się przede wszystkim z różnicami w układzie aktywacji"
+    ],
+    "answer": "Emocje należy traktować jako mechanizmy sugerujące, że zdarzenie jest ważne dla interesów jednostki"
+  },
+  {
+    "question": "Ludzie charakteryzujący się silnym motywem afiliacji:",
+    "options": [
+      "Źle się czują, gdy są wśród ludzi i unikają spotkań towarzyskich",
+      "Źle się czują, gdy są samotni i starają się wówczas nawiązać interakcję z innymi",
+      "Celowo izolują się od społeczeństwa, ponieważ nie czerpią satysfakcji z relacji międzyludzkich",
+      "Nie odczuwają żadnych emocji związanych z kontaktami społecznymi"
+    ],
+    "answer": "Źle się czują, gdy są samotni i starają się wówczas nawiązać interakcję z innymi"
+  },
+  {
+    "question": "Czy ekspresja emocji ma charakter wrodzony, czy wyuczony?",
+    "options": [
+      "Ekspresja emocji jest całkowicie wrodzona i niezależna od środowiska",
+      "Ekspresja emocji jest wyłącznie wyuczonym zachowaniem",
+      "Ekspresja emocji ma zarówno komponent wrodzony, jak i wyuczony",
+      "Ekspresja emocji jest determinowana wyłącznie przez kulturę"
+    ],
+    "answer": "Ekspresja emocji ma zarówno komponent wrodzony, jak i wyuczony"
+  },
+  {
+    "question": "Który z poniższych czynników jest kluczowy dla wewnętrznej motywacji?",
+    "options": [
+      "Nagrody zewnętrzne",
+      "Poczucie autonomii",
+      "Przymus społeczny",
+      "Strach przed porażką"
+    ],
+    "answer": "Poczucie autonomii"
+  },
+  {
+    "question": "Która z poniższych strategii jest stosowana w radzeniu sobie ze stresem?",
+    "options": [
+      "Unikanie myślenia o problemie",
+      "Ruminacja",
+      "Reinterpretacja poznawcza",
+      "Rezygnacja z działania"
+    ],
+    "answer": "Reinterpretacja poznawcza"
+  },
+  {
+    "question": "Która teoria emocji zakłada, że emocje powstają w wyniku oceny sytuacji przez jednostkę?",
+    "options": [
+      "Teoria Jamesa-Langego",
+      "Teoria Cannona-Barda",
+      "Teoria poznawcza Lazarusa",
+      "Model Ledoux"
+    ],
+    "answer": "Teoria poznawcza Lazarusa"
+  },
+  {
+    "question": "Czym charakteryzuje się etap preparacyjny w realizacji zadania?",
+    "options": [
+      "To faza końcowa, w której ocenia się efekty pracy",
+      "Polega na planowaniu i przygotowaniu strategii działania",
+      "Dotyczy wyłącznie wykonania zadania, bez wcześniejszych przygotowań",
+      "Jest momentem rezygnacji z zadania, jeśli wydaje się zbyt trudne"
+    ],
+    "answer": "Polega na planowaniu i przygotowaniu strategii działania"
+  },
+  {
+    "question": "W eksperymentach Ekmana i Friesen plemię Fore:",
+    "options": [
+      "Nie rozpoznawało żadnych emocji na zdjęciach",
+      "Rozpoznawało emocje na podstawie mimiki twarzy",
+      "Używało zupełnie innego kodu ekspresji emocji",
+      "Odmówiło udziału w badaniu"
+    ],
+    "answer": "Rozpoznawało emocje na podstawie mimiki twarzy"
+  },
+  {
+    "question": "Jaką rolę w procesach motywacyjnych odgrywają wzmocnienia?",
+    "options": [
+      "Wzmocnienia nie mają wpływu na motywację człowieka",
+      "Wzmocnienia wpływają jedynie na krótkoterminową motywację",
+      "Wzmocnienia wzmacniają lub osłabiają określone zachowania, kształtując motywację",
+      "Wzmocnienia działają tylko wtedy, gdy są stosowane w sposób świadomy"
+    ],
+    "answer": "Wzmocnienia wzmacniają lub osłabiają określone zachowania, kształtując motywację"
+  },
+  {
+    "question": "Dlaczego o facylitacji społecznej mówi się nie tylko wtedy, gdy dochodzi do polepszenia zadaniowego funkcjonowania podmiotu, ale i wtedy, gdy dochodzi do pogorszenia jego działania?",
+    "options": [
+      "Facylitacja społeczna zawsze prowadzi do poprawy wyników w obecności innych",
+      "Facylitacja społeczna obejmuje zarówno poprawę, jak i pogorszenie wykonania w zależności od trudności zadania",
+      "Facylitacja społeczna działa tylko w małych grupach",
+      "Facylitacja społeczna dotyczy jedynie zadań zespołowych"
+    ],
+    "answer": "Facylitacja społeczna obejmuje zarówno poprawę, jak i pogorszenie wykonania w zależności od trudności zadania"
+  },
+  {
+    "question": "Który element według Carla Rogersa charakteryzuje osobę w pełni funkcjonującą?",
+    "options": [
+      "Koncentracja na przyszłości",
+      "Otwieranie się na nowe doświadczenia",
+      "Stałe skupienie na przeszłości",
+      "Bezwarunkowe przestrzeganie narzuconych reguł"
+    ],
+    "answer": "Otwieranie się na nowe doświadczenia"
+  },
+  {
+    "question": "Na czym polega automatyczna regulacja emocji w pierwszym okresie życia człowieka?",
+    "options": [
+      "Na świadomym kontrolowaniu reakcji emocjonalnych",
+      "Na bezpośrednim emitowaniu reakcji samouspokajających",
+      "Na unikaniu jakichkolwiek bodźców emocjonalnych",
+      "Na świadomym analizowaniu źródeł emocji"
+    ],
+    "answer": "Na bezpośrednim emitowaniu reakcji samouspokajających"
+  },
+  {
+    "question": "Która z poniższych teorii motywacji podkreśla znaczenie konfliktu poznawczego jako źródła motywacji?",
+    "options": [
+      "Teoria dysonansu poznawczego Festingera",
+      "Behawiorystyczna teoria motywacji",
+      "Ewolucyjna teoria motywacji"
+    ],
+    "answer": "Teoria dysonansu poznawczego Festingera"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń najlepiej opisuje automatyczną regulację emocji?",
+    "options": [
+      "Polega na świadomym kontrolowaniu emocji i ich ekspresji.",
+      "Jest procesem nieświadomym, zachodzącym w oparciu o wcześniejsze doświadczenia i mechanizmy biologiczne.",
+      "Wymaga aktywnego zaangażowania uwagi i refleksji nad własnymi emocjami.",
+      "Obejmuje wyłącznie świadome mechanizmy regulacyjne, takie jak samokontrola."
+    ],
+    "answer": "Jest procesem nieświadomym, zachodzącym w oparciu o wcześniejsze doświadczenia i mechanizmy biologiczne."
+  },
+  {
+    "question": "Który z poniższych czynników NIE wpływa na automatyczną regulację emocji?",
+    "options": [
+      "Wcześniejsze doświadczenia emocjonalne.",
+      "Mechanizmy biologiczne i genetyczne.",
+      "Świadome podejmowanie decyzji o regulacji emocji.",
+      "Nieświadome mechanizmy przetwarzania informacji."
+    ],
+    "answer": "Świadome podejmowanie decyzji o regulacji emocji."
+  },
+  {
+    "question": "Który etap działania ludzkiego obejmuje ocenę osiągniętego wyniku oraz analizę konsekwencji podjętego działania?",
+    "options": [
+      "Etap preparacyjny",
+      "Etap realizacyjny",
+      "Etap ewaluacyjny",
+      "Etap poznawczy"
+    ],
+    "answer": "Etap ewaluacyjny"
+  },
+  {
+    "question": "Jakie dwa aspekty są istotne w kontekście procesów poznawczych i motywacji?",
+    "options": [
+      "Introwersja i ekstrawersja",
+      "Koncentracja i kontrola poznawcza",
+      "Empatia i sympatia",
+      "Myślenie logiczne i intuicyjne"
+    ],
+    "answer": "Koncentracja i kontrola poznawcza"
+  },
+  {
+    "question": "Jakie bodźce mają największy wpływ na wzbudzanie emocji?",
+    "options": [
+      "Bodźce sensoryczne i zmysłowe",
+      "Bodźce związane z relacjami społecznymi",
+      "Bodźce wewnętrzne, jak myśli i przekonania",
+      "Bodźce zewnętrzne, takie jak widok niebezpieczeństwa"
+    ],
+    "answer": "Bodźce zewnętrzne, takie jak widok niebezpieczeństwa"
+  },
+  {
+    "question": "Która z poniższych teorii emocji zakłada, że emocje są wynikiem interpretacji bodźca przez jednostkę?",
+    "options": [
+      "Teoria Jamesa-Langego",
+      "Teoria Cannon-Barda",
+      "Teoria Schachtera-Singera",
+      "Teoria emocji ewolucyjnych"
+    ],
+    "answer": "Teoria Schachtera-Singera"
+  },
+  {
+    "question": "Który mechanizm motywacyjny jest głównie związany z teorią nagrody i kary?",
+    "options": [
+      "Motywacja zewnętrzna",
+      "Motywacja wewnętrzna",
+      "Motywacja opóźnionej gratyfikacji",
+      "Motywacja samorealizacji"
+    ],
+    "answer": "Motywacja zewnętrzna"
+  }
+]
